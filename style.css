@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+.texto {
+  margin: 10px, 5px;
+}
+
+.texto-carousel {
+  margin: 30px;
+}
+.parque {
+  text-align: center;
+}
+
+.parquegarcia {
+  justify-content: space-around;
+  margin: 50px;
+}
+.parrafo {
+  margin-top: 30px;
+}
